@@ -6,7 +6,8 @@
    }
 
    h1 {
-       background-color: #4CAF50;
+    color: green;   
+    background-color: #4CAF50;
        padding: 20px;
        border-radius: 5px;
    }
